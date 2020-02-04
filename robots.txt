@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eepeerahm.g-thomson.blog/sitemap.xml
